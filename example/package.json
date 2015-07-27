@@ -1,0 +1,8 @@
+{
+  "name": "gulp-literate-example",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-markdown": "^1.0.0",
+    "gulp-rename": "^1.2.2"
+  }
+}
