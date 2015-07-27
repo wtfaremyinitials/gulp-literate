@@ -1,5 +1,8 @@
 # gulp-literate
 
+![Version](https://img.shields.io/npm/v/gulp-literate.svg)
+![Downloads](https://img.shields.io/npm/dm/gulp-literate.svg)
+
 > Markdown files that happen to contain source code
 
 ## Install
