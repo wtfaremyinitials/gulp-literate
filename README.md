@@ -8,7 +8,7 @@
 ## Install
 
 ```sh
-$ npm install --save-dev gulp-babel
+$ npm install --save-dev gulp-literate
 ```
 
 ## Example
