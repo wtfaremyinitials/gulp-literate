@@ -1,7 +1,7 @@
 # gulp-literate
 
-![Version](https://img.shields.io/npm/v/gulp-literate.svg)
-![Downloads](https://img.shields.io/npm/dm/gulp-literate.svg)
+[![Version](https://img.shields.io/npm/v/gulp-literate.svg)](https://npmjs.com/package/gulp-literate/)
+[![Downloads](https://img.shields.io/npm/dm/gulp-literate.svg)](https://npmjs.com/package/gulp-literate/)
 
 > Markdown files that happen to contain source code
 
