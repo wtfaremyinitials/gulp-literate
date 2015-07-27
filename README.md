@@ -11,8 +11,6 @@
 $ npm install --save-dev gulp-babel
 ```
 
-gulp-literate
-
 ## Example
 
 [`main.lit.js`](example/main.lit.js)
