@@ -37,6 +37,8 @@ function literate() {
                 buffer = lines.pop();
                 lines = lines.filter(function(ln) {
                     return ln.startsWith('    ');
+                }).map(function(ln) {
+                    return ln.substr(4);
                 });
                 code = lines.join('\n');
                 this.push(new Buffer(code));
